@@ -24,4 +24,7 @@ A personal port folio showcasing my skills, projects, experience, capabilities, 
 - Github
 
 ### Project Status
-- I am currently building my port folio gradually and i will continue adding new features, projects and improvements.
+I am currently building my port folio gradually and i will continue adding new features, projects and improvements.
+
+### Goal
+The goal of this port folio is to showcase my software engineering skills, expertise, professional journey to potential and employers and collaborators.
