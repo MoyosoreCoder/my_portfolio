@@ -1,5 +1,5 @@
 # My Personal Port Folio
-A personal port folio showcasing my skills, projects, experience, capabilities, as a software developer
+A personal port folio showcasing my skills, projects, experience, capabilities, as a software developer.
 
 ## Features
 - About me
@@ -24,3 +24,4 @@ A personal port folio showcasing my skills, projects, experience, capabilities, 
 - Github
 
 ### Project Status
+- I am currently building my port folio gradually and i will continue adding new features, projects and improvements.
