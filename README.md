@@ -16,9 +16,11 @@ A personal port folio showcasing my skills, projects, experience, capabilities, 
 - Interactive UI and animations features
 - Contact section
 
-# Technologies
+### Technologies
 - HTML5
 - CSS3
 - Javascript
 - Git
 - Github
+
+### Project Status
