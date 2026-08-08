@@ -1,4 +1,4 @@
-# My Personal Port Folio ![alt text](image.png)
+# My Personal Port Folio 💼
 A personal port folio showcasing my skills, projects, experience, capabilities, as a software developer.
 
 ## Features
